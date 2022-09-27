@@ -9,7 +9,7 @@
   <img align="center" alt="alexia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alexia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="alexia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="right" alt="picasion.com_d4f69fb7209e9868e10837be61a65c96.gif" src="https://github.com/alexiakarine/alexiakarine/blob/main/src/picasion.com_d4f69fb7209e9868e10837be61a65c96.gif">
+  <img src="alexiakarine/src/picasion.com_d4f69fb7209e9868e10837be61a65c96.gif">
 </div>
   
   ##
