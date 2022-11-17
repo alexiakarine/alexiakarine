@@ -14,10 +14,8 @@
   <img align="center" alt="alexia-mySQL " height="40" width="50" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
   <img align="center" alt="alexia-gitBash " height="65" width="70" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor">
   <img align="center" alt="alexia-Node " height="70" width="75" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
-
 </div>
-
- 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div> 
   <a href = "mailto:contatoalexiakarine18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexiakarinesilva-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
