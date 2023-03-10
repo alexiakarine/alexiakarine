@@ -11,11 +11,13 @@
   <img align="center" alt="alexia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="alexia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="alexia-Java " height="65" width="70" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="alexia-pyhton " height="45" width="75" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   <img align="center" alt="alexia-mySQL " height="40" width="50" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+  <img align="center" alt="alexia-Node " height="50" width="75" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
   <img align="center" alt="alexia-gitBash " height="65" width="70" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor">
-  <img align="center" alt="alexia-Node " height="70" width="75" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
-</div>
+ 
 
+</div>
 <div> 
 <br>
  <a href = "mailto:contatoalexiakarine18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
