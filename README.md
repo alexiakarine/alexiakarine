@@ -1,6 +1,8 @@
+<div align="center"><br>
 ## Oiii eu sou a Alexia, analista de qualidade! 
+<div align="center"><br>
 <img src="https://github.com/alexiakarine/alexiakarine/blob/main/src/picasion.com_d4f69fb7209e9868e10837be61a65c96.gif" width="200" heigth="200"/>
-<div align="right">
+<div align="center"><br>
   <a href="https://github.com/alexiakarine">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexiakarine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiakarine&layout=compact&langs_count=7&theme=dracula"/>
@@ -21,8 +23,8 @@
 
 </div>
 <hr/>
-<div> 
-<br>
+<div align="center"><br>
+   <p><b> :speech_balloon: Contacts </b></p>
  <a href = "mailto:contatoalexiakarine18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexiakarinesilva-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
