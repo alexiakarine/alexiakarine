@@ -1,5 +1,5 @@
 <div align="center"><br>
-## Oiii eu sou a Alexia, analista de qualidade! 
+<h1># Oiii eu sou a Alexia, analista de qualidade!</h1> 
 <div align="center"><br>
 <img src="https://github.com/alexiakarine/alexiakarine/blob/main/src/picasion.com_d4f69fb7209e9868e10837be61a65c96.gif" width="200" heigth="200"/>
 <div align="center"><br>
