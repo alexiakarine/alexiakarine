@@ -1,7 +1,7 @@
 <div align="center"><br>
 <h1># Oiii eu sou a Alexia, analista de qualidade!</h1> 
 <div align="center"><br>
-<img src="https://github.com/alexiakarine/alexiakarine/blob/main/src/picasion.com_d4f69fb7209e9868e10837be61a65c96.gif" width="200" heigth="200"/>
+<img src="https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/x.jpeg" width="200" heigth="200"/>
 <div align="center"><br>
   <a href="https://github.com/alexiakarine">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexiakarine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
